@@ -14,4 +14,4 @@ module.exports = {
     database: 'db_products'
 };
 ```
-###### p.s: your can create entry with only **english** letters!
+###### p.s: can create entry with only **english** letters!
