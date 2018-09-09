@@ -1,6 +1,6 @@
 Sample-CRUD-table
 
-For using extends options file in 'db/options.js': 
+For using extends options file in **"db/options.js"**: 
 
 1. port your database;
 2. password that database;
@@ -14,3 +14,4 @@ module.exports = {
     database: 'db_products'
 };
 ```
+###### p.s: your can create entry with only **english** letters!
