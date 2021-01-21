@@ -15,3 +15,9 @@ module.exports = {
 };
 ```
 ###### p.s: can create entry with only **english** letters!
+
+## Run
+
+```bash
+npm run start
+```
